@@ -1,0 +1,5 @@
+.light_theme {
+    --background-color: rgb(240, 231, 219);
+    --toggle-background-color: rgb(128, 90, 213);
+    --toggle-background-hover-color: rgb(108, 71, 194);
+}

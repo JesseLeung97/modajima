@@ -1,0 +1,5 @@
+.dark_theme {
+    --background-color: rgb(40, 44, 53);
+    --toggle-background-color: rgb(251, 211, 141);
+    --toggle-background-hover-color: rgb(246, 174, 86);
+}
